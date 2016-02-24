@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="HOME" value="/Users/Greg" />
+    <macro name="PATH" value="/Applications/MAMP/bin/php/php5.4.10/bin:/Users/Greg/.nvm/v0.10.13/bin:/Users/Greg/.rvm/gems/ruby-2.0.0-p195/bin:/Users/Greg/.rvm/gems/ruby-2.0.0-p195@global/bin:/Users/Greg/.rvm/rubies/ruby-2.0.0-p195/bin:/Users/Greg/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/Greg/CLI/ec2-api-tools/bin:/Users/Greg/.rvm/bin:/Users/Greg/Android/adt-bundle-mac-x86_64-20130522/sdk/platform-tools" />
+    <ignoredMacro name="MESSAGE" />
+    <ignoredMacro name="FILE_PATH" />
+    <ignoredMacro name="LINE" />
+    <ignoredMacro name="COLUMN" />
+  </component>
+</application>
+

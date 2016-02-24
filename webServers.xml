@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2c855afd-bdb4-479e-8117-613a8a3bd5b3" name="RemotePHPUnit" url="http://p.m:4567">
+        <fileTransfer host="127.0.0.1" port="2222" rootFolder="/var/www" accessType="SFTP" password="dfdcdfcbdfcddfd8dfcbdfc4dfde" username="vagrant" />
+      </webServer>
+    </option>
+  </component>
+</application>
