@@ -56,6 +56,11 @@
     <option name="KEEP_ITN_PASSWORD" value="false" />
     <option name="EMAIL" value="" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.2.6/bin/node">
+      <version-cache version="4.2.6" last-modified="1453400968000" />
+    </local-interpreter>
+  </component>
   <component name="PhpRefactoringSettings">
     <option name="RENAME_CLASS_INHERITORS" value="false" />
   </component>
