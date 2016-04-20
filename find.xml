@@ -3,6 +3,7 @@
     <option name="customScope" value="Directory '/Users/Greg/Repos/lmpm-toolkit/src/Lightmaker/DynamoBackupBundle'" />
     <option name="defaultScopeName" value="Directory '/Users/Greg/Repos/lmpm-toolkit/src/Lightmaker/DynamoBackupBundle'" />
     <option name="SEARCH_SCOPE" value="Directory '/Users/Greg/Repos/lmpm-toolkit/src/Lightmaker/DynamoBackupBundle'" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
