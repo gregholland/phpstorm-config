@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '/Users/Greg/Repos/lmpm-toolkit/src/Lightmaker/DynamoBackupBundle'" />
     <option name="defaultScopeName" value="Directory '/Users/Greg/Repos/lmpm-toolkit/src/Lightmaker/DynamoBackupBundle'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/Users/Greg/Repos/lmpm-toolkit/src/Lightmaker/DynamoBackupBundle'" />
     <recentFileMasks>
       <mask>*.properties</mask>
