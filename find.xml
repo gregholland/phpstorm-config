@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/Users/Greg/Repos/lmpm-toolkit/src/Lightmaker/DynamoBackupBundle'" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,11 +15,11 @@
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
-      <mask>*.php</mask>
       <mask>*.css</mask>
       <mask>services.yml</mask>
       <mask>*.yml</mask>
       <mask>*.coffee</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
