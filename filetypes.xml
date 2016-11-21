@@ -19,6 +19,7 @@
       <mapping pattern="sess_0gikar9n8ar445dnpkdhlovip0" type="PLAIN_TEXT" />
       <mapping pattern="dfds" type="PLAIN_TEXT" />
       <mapping pattern="agent" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".testrc" type="PLAIN_TEXT" />
       <mapping pattern=".fdsfsd" type="PLAIN_TEXT" />
