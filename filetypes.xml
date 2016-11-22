@@ -25,6 +25,7 @@
       <mapping pattern=".fdsfsd" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern=".opt-out" type="PLAIN_TEXT" />
+      <mapping pattern=".maintenance" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="lmpmpublicapi" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
