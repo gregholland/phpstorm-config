@@ -5,10 +5,10 @@
       <mapping ext="env" type="Bash" />
       <mapping pattern="Dockerfile" type="Docker file" />
       <removed_mapping pattern="Dockerfile" type="Dockerfile" />
-      <mapping pattern="select-products.hbs" type="Handlebars/Mustache" />
       <mapping pattern=".bowerrc" type="JSON" />
       <mapping pattern="vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="LightmakerDataMigrationExtension.php" type="PLAIN_TEXT" />
+      <mapping pattern=".wgetrc-dev" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
@@ -33,6 +33,7 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="publicapipropertymanage" type="PLAIN_TEXT" />
       <removed_mapping ext="so" type="UNKNOWN" />
+      <mapping pattern="select-products.hbs" type="Handlebars/Mustache" />
     </extensionMap>
   </component>
 </application>
