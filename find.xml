@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '/Users/Greg/Repos/lmpm-toolkit/src/Lightmaker/DynamoBackupBundle'" />
     <option name="defaultScopeName" value="Directory '/Users/Greg/Repos/lmpm-toolkit/src/Lightmaker/DynamoBackupBundle'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/Users/Greg/Repos/lmpm-toolkit/src/Lightmaker/DynamoBackupBundle'" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,8 +16,8 @@
       <mask>*.css</mask>
       <mask>services.yml</mask>
       <mask>*.yml</mask>
-      <mask>*.coffee</mask>
       <mask>*.php</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
