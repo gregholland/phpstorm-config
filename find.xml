@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/Users/Greg/Repos/lmpm-toolkit/src/Lightmaker/DynamoBackupBundle'" />
-    <option name="defaultScopeName" value="Directory '/Users/Greg/Repos/lmpm-toolkit/src/Lightmaker/DynamoBackupBundle'" />
-    <option name="SEARCH_SCOPE" value="Directory '/Users/Greg/Repos/lmpm-toolkit/src/Lightmaker/DynamoBackupBundle'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
       <mask>*.properties</mask>
