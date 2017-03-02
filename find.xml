@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,6 +18,14 @@
       <mask>*.yml</mask>
       <mask>*.php</mask>
       <mask>*.coffee</mask>
+      <mask>*T.coffee</mask>
+      <mask>*Te.coffee</mask>
+      <mask>*Test.coffee</mask>
+      <mask>*Test..coffee</mask>
+      <mask>*Test.p.coffee</mask>
+      <mask>*Test.ph.coffee</mask>
+      <mask>*Test.php.coffee</mask>
+      <mask>*Test.php</mask>
     </recentFileMasks>
   </component>
 </application>
