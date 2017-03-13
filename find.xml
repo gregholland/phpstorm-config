@@ -6,7 +6,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.js</mask>
@@ -36,6 +35,7 @@
       <mask>*coffe</mask>
       <mask>*coffee</mask>
       <mask>*</mask>
+      <mask>*js</mask>
     </recentFileMasks>
   </component>
 </application>
