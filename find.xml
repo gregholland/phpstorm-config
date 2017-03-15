@@ -5,13 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*php" />
+    <option name="FILE_MASK" value="*coffee" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*.css</mask>
-      <mask>services.yml</mask>
-      <mask>*.coffee</mask>
-      <mask>*T.coffee</mask>
       <mask>*Te.coffee</mask>
       <mask>*Test.coffee</mask>
       <mask>*Test..coffee</mask>
@@ -30,13 +25,18 @@
       <mask>*co</mask>
       <mask>*js</mask>
       <mask>*j</mask>
-      <mask>*cof</mask>
-      <mask>*coff</mask>
       <mask>*coffe</mask>
-      <mask>*coffee</mask>
-      <mask>*</mask>
       <mask>*p</mask>
       <mask>*php</mask>
+      <mask>*</mask>
+      <mask>*cofee</mask>
+      <mask>*cofe</mask>
+      <mask>*cof</mask>
+      <mask>*coff</mask>
+      <mask>*cofff</mask>
+      <mask>*cofffe</mask>
+      <mask>*cofffee</mask>
+      <mask>*coffee</mask>
     </recentFileMasks>
   </component>
 </application>
