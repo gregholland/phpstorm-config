@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*yml" />
+    <option name="FILE_MASK" value="*coffee" />
     <recentFileMasks>
       <mask>*Test.p.coffee</mask>
       <mask>*Test.ph.coffee</mask>
@@ -33,10 +33,10 @@
       <mask>*js</mask>
       <mask>*j</mask>
       <mask>*coffe</mask>
-      <mask>*coffee</mask>
-      <mask>*</mask>
       <mask>*y</mask>
       <mask>*yml</mask>
+      <mask>*</mask>
+      <mask>*coffee</mask>
     </recentFileMasks>
   </component>
 </application>
