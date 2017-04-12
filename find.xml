@@ -14,7 +14,6 @@
       <mask>*.php</mask>
       <mask>*.m</mask>
       <mask>*.y</mask>
-      <mask>*.yml</mask>
       <mask>*.</mask>
       <mask>*co</mask>
       <mask>*p</mask>
@@ -31,9 +30,10 @@
       <mask>*j</mask>
       <mask>*coffe</mask>
       <mask>*y</mask>
-      <mask>*yml</mask>
-      <mask>*</mask>
       <mask>*coffee</mask>
+      <mask>*</mask>
+      <mask>*yml</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
