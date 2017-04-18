@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*Test.p.coffee</mask>
-      <mask>*Test.ph.coffee</mask>
-      <mask>*Test.php.coffee</mask>
       <mask>*Test.php</mask>
       <mask>*Tes.php</mask>
       <mask>*Te.php</mask>
@@ -14,7 +11,6 @@
       <mask>*.php</mask>
       <mask>*.m</mask>
       <mask>*.y</mask>
-      <mask>*.</mask>
       <mask>*co</mask>
       <mask>*p</mask>
       <mask>*php</mask>
@@ -34,6 +30,10 @@
       <mask>*</mask>
       <mask>*yml</mask>
       <mask>*.yml</mask>
+      <mask>*.ks</mask>
+      <mask>*.k</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
