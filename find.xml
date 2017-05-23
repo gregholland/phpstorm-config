@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.y</mask>
-      <mask>*co</mask>
       <mask>*p</mask>
       <mask>*php</mask>
       <mask>*cofee</mask>
@@ -28,12 +26,14 @@
       <mask>*.k</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.cof</mask>
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
+      <mask>*.coffee«</mask>
       <mask>*.coffee</mask>
+      <mask>*.</mask>
+      <mask>*.hbs</mask>
     </recentFileMasks>
   </component>
 </application>
