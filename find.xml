@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
-      <mask>*cofe</mask>
       <mask>*cof</mask>
       <mask>*coff</mask>
       <mask>*cofff</mask>
@@ -27,13 +27,14 @@
       <mask>*.c</mask>
       <mask>*.co</mask>
       <mask>*.cof</mask>
-      <mask>*.coff</mask>
-      <mask>*.coffe</mask>
-      <mask>*.coffee</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.hb</mask>
       <mask>*.hbs</mask>
+      <mask>*.o</mask>
+      <mask>*.</mask>
+      <mask>*.coff</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
