@@ -3,7 +3,7 @@
     <TaskOptions isEnabled="true">
       <option name="arguments" value="-c -m $FilePath$" />
       <option name="checkSyntaxErrors" value="true" />
-      <option name="description" value="Compiles .coffee files into .js files" />
+      <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="coffee" />
       <option name="immediateSync" value="true" />
@@ -19,8 +19,8 @@
         </array>
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$HOME$/.nvm/v0.10.13/bin/coffee" />
-      <option name="scopeName" value="Web Dir" />
+      <option name="program" value="$USER_HOME$/.config/nvm/versions/node/v8.0.0/bin/coffee" />
+      <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
