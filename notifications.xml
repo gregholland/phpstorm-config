@@ -6,6 +6,7 @@
     <notification groupId="Database refactoring log" displayType="NONE" />
     <notification groupId="Database view" displayType="TOOL_WINDOW" />
     <notification groupId="Debugger messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="Error Report" />
     <notification groupId="Execution" displayType="NONE" />
     <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" />
