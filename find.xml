@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
-      <mask>*cofffe</mask>
       <mask>*cofffee</mask>
       <mask>*s</mask>
       <mask>*js</mask>
@@ -27,14 +26,15 @@
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
-      <mask>*.c</mask>
       <mask>*.co</mask>
+      <mask>*.php</mask>
+      <mask>*.</mask>
+      <mask>*.cp</mask>
+      <mask>*.c</mask>
       <mask>*.cof</mask>
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
-      <mask>*.</mask>
-      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
