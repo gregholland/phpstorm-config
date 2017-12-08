@@ -3,16 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="services.yml" />
+    <option name="FILE_MASK" value="!*.md" />
     <recentFileMasks>
-      <mask>*</mask>
-      <mask>*yml</mask>
-      <mask>*.ks</mask>
-      <mask>*.k</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.coffee«</mask>
-      <mask>*.h</mask>
       <mask>*.hb</mask>
       <mask>*.hbs</mask>
       <mask>*.o</mask>
@@ -35,6 +27,14 @@
       <mask>service*.yml</mask>
       <mask>services*.yml</mask>
       <mask>services.yml</mask>
+      <mask>.yml</mask>
+      <mask>yml</mask>
+      <mask>!.</mask>
+      <mask>!</mask>
+      <mask>!*</mask>
+      <mask>!*.</mask>
+      <mask>!*.m</mask>
+      <mask>!*.md</mask>
     </recentFileMasks>
   </component>
 </application>
