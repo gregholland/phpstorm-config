@@ -5,14 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="services.yml" />
     <recentFileMasks>
-      <mask>*cofffee</mask>
-      <mask>*s</mask>
-      <mask>*js</mask>
-      <mask>*j</mask>
-      <mask>*coffe</mask>
-      <mask>*y</mask>
-      <mask>*coffee</mask>
       <mask>*</mask>
       <mask>*yml</mask>
       <mask>*.ks</mask>
@@ -36,6 +30,13 @@
       <mask>*.coffee</mask>
       <mask>*.</mask>
       <mask>*.yml</mask>
+      <mask>se*.yml</mask>
+      <mask>ser*.yml</mask>
+      <mask>serv*.yml</mask>
+      <mask>servi*.yml</mask>
+      <mask>service*.yml</mask>
+      <mask>services*.yml</mask>
+      <mask>services.yml</mask>
     </recentFileMasks>
   </component>
 </application>
