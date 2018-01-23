@@ -9,6 +9,9 @@
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
+          <stepping-filters>
+            <stepping-filter url-pattern="main.js" />
+          </stepping-filters>
         </configuration>
       </debugger>
     </debuggers>
