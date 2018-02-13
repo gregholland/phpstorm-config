@@ -1,10 +1,7 @@
 <code_scheme name="Default (1)" version="173">
-  <CoffeeScriptCodeStyleSettings>
-    <option name="SPACE_BEFORE_PROPERTY_COLON" value="true" />
-    <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
-  </CoffeeScriptCodeStyleSettings>
   <codeStyleSettings language="CoffeeScript">
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="false" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
