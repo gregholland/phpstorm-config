@@ -3,37 +3,17 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.o</mask>
-      <mask>*.ym</mask>
-      <mask>*.co</mask>
-      <mask>*.php</mask>
-      <mask>*.cp</mask>
-      <mask>*.y</mask>
-      <mask>*.c</mask>
-      <mask>*.cof</mask>
-      <mask>*.coff</mask>
-      <mask>*.coffe</mask>
-      <mask>*.</mask>
-      <mask>*.yml</mask>
-      <mask>se*.yml</mask>
-      <mask>ser*.yml</mask>
-      <mask>serv*.yml</mask>
-      <mask>servi*.yml</mask>
-      <mask>service*.yml</mask>
-      <mask>services*.yml</mask>
-      <mask>services.yml</mask>
-      <mask>.yml</mask>
-      <mask>yml</mask>
-      <mask>!.</mask>
-      <mask>!</mask>
-      <mask>!*</mask>
-      <mask>!*.</mask>
-      <mask>!*.m</mask>
-      <mask>!*.md</mask>
-      <mask>*.hbs</mask>
-      <mask>*.coffee</mask>
-      <mask>*list.hbs</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="list.coffee" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php</mask>
+    <mask>list.coffee</mask>
   </component>
 </application>
