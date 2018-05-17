@@ -1,6 +1,12 @@
 <application>
   <component name="MessDetector">
-    <option name="messDetectorPath" value="$HOME$/Repos/PropertyManager/vendor/phpmd/phpmd/src/bin/phpmd" />
+    <phpmd_settings_migrated />
+    <phpmd_settings>
+      <MessDetectorConfiguration tool_path="$HOME$/Repos/PropertyManager/vendor/phpmd/phpmd/src/bin/phpmd" />
+    </phpmd_settings>
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
   </component>
   <component name="PhpInterpreters">
     <interpreters>
