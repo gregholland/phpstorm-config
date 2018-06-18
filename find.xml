@@ -20,5 +20,6 @@
     <mask>list.hbs</mask>
     <mask>*Context.php</mask>
     <mask>routing.yml</mask>
+    <mask>.php</mask>
   </component>
 </application>
