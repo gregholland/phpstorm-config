@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*Test.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,7 +22,7 @@
     <mask>*Context.php</mask>
     <mask>routing.yml</mask>
     <mask>.php</mask>
-    <mask>!*Test.php</mask>
     <mask>yml</mask>
+    <mask>!*Test.php</mask>
   </component>
 </application>
