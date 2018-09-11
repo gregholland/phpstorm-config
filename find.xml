@@ -23,7 +23,7 @@
     <mask>yml</mask>
     <mask>!*Test.php</mask>
     <mask>*.coffee</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
