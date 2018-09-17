@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.coffee" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,8 +23,8 @@
     <mask>.php</mask>
     <mask>yml</mask>
     <mask>!*Test.php</mask>
-    <mask>*.coffee</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>*.coffee</mask>
   </component>
 </application>
