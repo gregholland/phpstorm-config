@@ -2,7 +2,10 @@
   <action id="BinTrayJBSDKAction">
     <keyboard-shortcut first-keystroke="shift alt 7" />
   </action>
-  <action id="SplitVertically">
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="SwitchApply">
