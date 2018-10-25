@@ -26,5 +26,6 @@
     <mask>*.yml</mask>
     <mask>*.coffee</mask>
     <mask>*list*</mask>
+    <mask>*filters.coffee</mask>
   </component>
 </application>
