@@ -26,5 +26,6 @@
     <mask>*filters.coffee</mask>
     <mask>*list.hbs</mask>
     <mask>*.php</mask>
+    <mask>*select-list.coffee</mask>
   </component>
 </application>
