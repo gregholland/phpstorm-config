@@ -30,5 +30,6 @@
     <mask>*list.coffee</mask>
     <mask>*list.hbs</mask>
     <mask>*.yml</mask>
+    <mask>view.coffee</mask>
   </component>
 </application>
