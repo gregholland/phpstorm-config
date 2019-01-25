@@ -30,5 +30,6 @@
     <mask>*.yml</mask>
     <mask>view.coffee</mask>
     <mask>transactions/*</mask>
+    <mask>*view.coffee</mask>
   </component>
 </application>
