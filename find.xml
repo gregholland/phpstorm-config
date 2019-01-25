@@ -31,5 +31,6 @@
     <mask>*list.hbs</mask>
     <mask>*.yml</mask>
     <mask>view.coffee</mask>
+    <mask>transactions/*</mask>
   </component>
 </application>
