@@ -23,7 +23,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
-    <option name="SPACE_WITHIN_BRACKETS" value="true" />
     <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
