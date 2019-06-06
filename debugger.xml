@@ -2,6 +2,7 @@
   <component name="XDebuggerSettings">
     <data-views>
       <sort-values>true</sort-values>
+      <show-values-inline>false</show-values-inline>
     </data-views>
     <general />
     <debuggers>
