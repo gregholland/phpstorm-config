@@ -28,20 +28,18 @@
       <mapping pattern="LightmakerDataMigrationExtension.php" type="PLAIN_TEXT" />
       <mapping pattern=".ebextensions" type="PLAIN_TEXT" />
       <mapping ext="lmpmpublicapi" type="PLAIN_TEXT" />
-      <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="publicapipropertymanage" type="PLAIN_TEXT" />
+      <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
