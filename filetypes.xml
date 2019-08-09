@@ -4,14 +4,12 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="select-products.hbs" type="Handlebars/Mustache" />
       <mapping pattern=".bablerc" type="JSON" />
       <mapping pattern=".bowerrc" type="JSON" />
       <mapping pattern="console" type="PHP" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="dfds" type="PLAIN_TEXT" />
-      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".fdsfsd" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
@@ -25,6 +23,7 @@
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern=".testrc" type="PLAIN_TEXT" />
       <mapping pattern="vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern="LightmakerDataMigrationExtension.php" type="PLAIN_TEXT" />
@@ -45,6 +44,7 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
