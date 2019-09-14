@@ -3,6 +3,7 @@
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.*.hprof;.DS_Store;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="select-products.hbs" type="Handlebars/Mustache" />
       <mapping pattern=".bowerrc" type="JSON" />
       <mapping pattern=".bablerc" type="JSON" />
       <mapping pattern="console" type="PHP" />
@@ -13,11 +14,11 @@
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="trip-nav.hbs" type="PLAIN_TEXT" />
+      <mapping pattern="dfds" type="PLAIN_TEXT" />
       <mapping pattern="failureReRun.json" type="PLAIN_TEXT" />
       <mapping pattern=".ebextensions" type="PLAIN_TEXT" />
       <mapping pattern="sess_0gikar9n8ar445dnpkdhlovip0" type="PLAIN_TEXT" />
       <mapping pattern=".fdsfsd" type="PLAIN_TEXT" />
-      <mapping pattern="dfds" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="agent" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -42,7 +43,6 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping pattern="select-products.hbs" type="Handlebars/Mustache" />
     </extensionMap>
   </component>
 </application>
