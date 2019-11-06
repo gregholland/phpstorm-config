@@ -33,7 +33,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
-    <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
   </codeStyleSettings>
   <codeStyleSettings language="Twig">
