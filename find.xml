@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.coffee" />
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -23,7 +24,6 @@
     <mask>transactions/*</mask>
     <mask>*view.coffee</mask>
     <mask>*Test.php</mask>
-    <mask>*.coffee</mask>
     <mask>*.js</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
@@ -33,5 +33,6 @@
     <mask>!*Test.php</mask>
     <mask>validation.yml</mask>
     <mask>*Command.php</mask>
+    <mask>*.coffee</mask>
   </component>
 </application>
