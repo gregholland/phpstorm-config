@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="AWS Prod Mode" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="assume-prod-mode" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Repos/lmpm-dev-env/cli" />
+    </exec>
+  </tool>
+</toolSet>
