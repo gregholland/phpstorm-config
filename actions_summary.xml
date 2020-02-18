@@ -1,0 +1,64 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <option name="data">
+      <map>
+        <entry key="$Copy">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582042322746" />
+              <option name="times" value="12" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorCopy">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582042517057" />
+              <option name="times" value="8" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorLineStart">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582042123400" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorNextWordWithSelection">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582042124819" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="NextWindow">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582042129579" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582042479670" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="editRunConfigurations">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582042481419" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
