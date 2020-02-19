@@ -10,6 +10,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Debug">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582137054453" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
@@ -34,6 +42,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Find">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582137082709" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="GotoFile">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582137070175" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="NextWindow">
           <value>
             <ActionSummary>
@@ -45,8 +69,40 @@
         <entry key="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582042479670" />
-              <option name="times" value="2" />
+              <option name="last" value="1582137052915" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.find.SearchReplaceComponent$11">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582137086658" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.ReopenProjectAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582137027664" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582137072717" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582137059781" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
