@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="angular" type="javaScript">
       <CLASSES>
         <root url="file://$HOME$/Library/Caches/WebIde70/extLibs/http_ajax.googleapis.com_ajax_libs_angularjs_1.0.3_angular.js" />
