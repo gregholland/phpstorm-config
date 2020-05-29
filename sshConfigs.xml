@@ -1,7 +1,9 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="127.0.0.1" id="fd2f1a51-d5fc-47a8-8598-d93b18c1e394" port="2222" username="vagrant" />
+      <sshConfig authType="PASSWORD" host="127.0.0.1" id="fd2f1a51-d5fc-47a8-8598-d93b18c1e394" port="2222" customName="RemotePHPUnit" nameFormat="CUSTOM" username="vagrant">
+        <option name="customName" value="RemotePHPUnit" />
+      </sshConfig>
       <sshConfig authType="PASSWORD" host="127.0.0.1" id="c915113c-0492-4b4e-97e7-39da8c15c042" port="2222" nameFormat="DESCRIPTIVE" username="vagrant" />
     </configs>
   </component>
