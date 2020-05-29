@@ -5,26 +5,26 @@
       <mapping pattern=".bablerc" type="JSON" />
       <mapping pattern=".bowerrc" type="JSON" />
       <mapping pattern="console" type="PHP" />
-      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
-      <mapping pattern=".maintenance" type="PLAIN_TEXT" />
       <mapping pattern="failureReRun.json" type="PLAIN_TEXT" />
+      <mapping pattern=".maintenance" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern=".testrc" type="PLAIN_TEXT" />
       <mapping pattern="sess_0gikar9n8ar445dnpkdhlovip0" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="agent" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="LightmakerDataMigrationExtension.php" type="PLAIN_TEXT" />
       <mapping pattern="trip-nav.hbs" type="PLAIN_TEXT" />
       <mapping pattern="dfds" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".opt-out" type="PLAIN_TEXT" />
-      <mapping pattern="vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern=".ebextensions" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="LightmakerDataMigrationExtension.php" type="PLAIN_TEXT" />
       <mapping pattern=".fdsfsd" type="PLAIN_TEXT" />
       <mapping pattern=".wgetrc-dev" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
-      <mapping pattern=".ebextensions" type="PLAIN_TEXT" />
+      <mapping pattern=".opt-out" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="lmpmpublicapi" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
