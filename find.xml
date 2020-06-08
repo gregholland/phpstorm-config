@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.as</mask>
+    <option name="FILE_MASK" value="!*.html" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>list.coffee</mask>
@@ -35,5 +35,6 @@
     <mask>*.coffee</mask>
     <mask>*.hbs</mask>
     <mask>!*Test.php</mask>
+    <mask>!*.html</mask>
   </component>
 </application>
