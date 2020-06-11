@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*list.coffee" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>list.coffee</mask>
@@ -17,7 +18,6 @@
     <mask>*list*</mask>
     <mask>*filters.coffee</mask>
     <mask>*select-list.coffee</mask>
-    <mask>*list.coffee</mask>
     <mask>*list.hbs</mask>
     <mask>view.coffee</mask>
     <mask>transactions/*</mask>
@@ -35,5 +35,6 @@
     <mask>*.hbs</mask>
     <mask>!*Test.php</mask>
     <mask>!*.html</mask>
+    <mask>*list.coffee</mask>
   </component>
 </application>
