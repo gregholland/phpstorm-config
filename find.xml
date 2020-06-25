@@ -5,7 +5,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.hbs" />
     <mask>*.mxml</mask>
     <mask>list.coffee</mask>
     <mask>list-item.hbs</mask>
