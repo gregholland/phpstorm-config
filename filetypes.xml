@@ -21,9 +21,9 @@
       <mapping pattern="dfds" type="PLAIN_TEXT" />
       <mapping pattern=".wgetrc-dev" type="PLAIN_TEXT" />
       <mapping pattern="LightmakerDataMigrationExtension.php" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern="vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
