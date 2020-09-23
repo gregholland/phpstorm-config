@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*Test.php" />
     <mask>list.coffee</mask>
     <mask>list-item.hbs</mask>
     <mask>list.hbs</mask>
@@ -28,12 +29,12 @@
     <mask>validation.yml</mask>
     <mask>*Command.php</mask>
     <mask>*.yml</mask>
-    <mask>!*Test.php</mask>
     <mask>!*.html</mask>
     <mask>*.coffee</mask>
     <mask>*list-item.hbs</mask>
     <mask>*.hbs</mask>
     <mask>*list.coffee</mask>
     <mask>*Controller.php</mask>
+    <mask>!*Test.php</mask>
   </component>
 </application>
